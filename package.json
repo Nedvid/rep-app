@@ -34,7 +34,7 @@
     "@types/googlemaps": "^3.30.16",
     "@w11k/angular-sticky-things": "^1.1.0",
     "adblock-detect": "^1.0.5",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "body-parser": "^1.18.3",
     "bootstrap": "^4.1.3",
     "classlist.js": "^1.1.20150312",
